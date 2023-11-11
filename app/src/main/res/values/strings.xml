@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="title">Title</string>
+    <string name="amount_in">Amount (in $)</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete All</string>
+    <string name="summary">Summary</string>
+    <string name="no_items">No items</string>
+    <string name="income">Income</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="expense">Expense: %1$s</string>
+    <string name="balance">Balance: %1$s</string>
+    <string name="income_">Income: %1$s</string>
+    <string name="moneylist">moneylist</string>
+    <string name="numallincome">numallincome</string>
+    <string name="numallexpense">numallexpense</string>
+    <string name="dismiss">dismiss</string>
+    <string name="dollar">$</string>
+</resources>
